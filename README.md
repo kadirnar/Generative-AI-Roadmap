@@ -1,7 +1,7 @@
 # 3 Ayda Generative AI Öğren
 
-## Şubat:
-📚LLM modelleri ile ilgili temel terimleri öğrenmek için kurs:
+## 📘 Şubat:
+LLM modelleri ile ilgili temel terimleri öğrenmek için kurs:
 
 https://docs.cohere.com/docs/llmu
 Temel terimleri öğrendikten sonra Andrej Karpathy’in hazırladığı Zero-to-Hero serisine başlayacağız. Her şeyi sıfırdan kodlayacağız💻
@@ -12,12 +12,12 @@ Bu eğitimleri izlerken aynı zamanda bolca medium yazıları da okumanızı tav
 
 - https://jalammar.github.io/illustrated-transformer
 
-## Mart:
-Andrej Karpathy kursunda sıfırdan GPT-2 modelini kodladıktan sonra Umar Jamil’in CLIP, Transformer, LLAMA videolarını bitireceğiz🔥
+## 🔥 Mart:
+Andrej Karpathy kursunda sıfırdan GPT-2 modelini kodladıktan sonra Umar Jamil’in CLIP, Transformer, LLAMA videolarını bitireceğiz.
 
 - https://www.youtube.com/@umarjamilai/videos
 
-## Nisan:
+## 🎉 Nisan:
 Şubat ve Mart ayında teorik ve kod kısımlarını bitirip kavradıktan sonra güncel llm modellerini öğrenmek için de harika olacaktır. Maxime Labonne hazırladığı bu github reposu çok detaylı. Sadece bunları bitirip test etmek yeterli olacaktır👌
 
 - https://github.com/mlabonne/llm-course
