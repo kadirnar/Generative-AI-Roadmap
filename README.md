@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=VMj-3S1tku0
 
 Bu eğitimleri izlerken aynı zamanda bolca medium yazıları da okumanızı tavsiye ediyorum. Özellikle Jay Alammar’in blog yazılarına kesinllikle okumanızı tavsiye ederim👀
 
-- https://jalammar.github.io/illustrated-transformer/?source=post_page-----f067f767f35a--------------------------------
+- https://jalammar.github.io/illustrated-transformer
 
 ## Mart:
 Andrej Karpathy kursunda sıfırdan GPT-2 modelini kodladıktan sonra Umar Jamil’in CLIP, Transformer, LLAMA videolarını bitireceğiz🔥
@@ -20,7 +20,7 @@ Andrej Karpathy kursunda sıfırdan GPT-2 modelini kodladıktan sonra Umar Jamil
 ## Nisan:
 Şubat ve Mart ayında teorik ve kod kısımlarını bitirip kavradıktan sonra güncel llm modellerini öğrenmek için de harika olacaktır. Maxime Labonne hazırladığı bu github reposu çok detaylı. Sadece bunları bitirip test etmek yeterli olacaktır👌
 
-- https://github.com/mlabonne/llm-course?source=post_page-----f067f767f35a--------------------------------
+- https://github.com/mlabonne/llm-course
 
 ## Bonus:
 Prompt template oluşturmak da çok önemli oldugu için kaynakları bırakıyorum. Bir yandan teorik ve kod içerikleri tükettirken bu kaynaklara da bakabiliriz🎨
